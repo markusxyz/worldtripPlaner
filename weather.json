@@ -1,6 +1,7 @@
 [
 {"Name":"Kanada, Osten ","Country":"CA","Part":"W","Monate":[3,3,3,2,2,1,0,0,0,1,3,3]},
 {"Name":"Kanada, Westen ","Country":"CA","Part":"E","Monate":[3,3,3,3,2,1,0,0,1,2,3,3]},
+{"Name":"USA ","Country":"US","Part":"","Monate":[4,4,4,4,2,2,4,4,4,2,4,4]},
 {"Name":"USA, Nordwesten ","Country":"US","Part":"NW","Monate":[3,3,3,2,1,0,0,0,0,1,2,3]},
 {"Name":"USA, Südwesten ","Country":"US","Part":"SW","Monate":[1,1,1,0,0,2,3,3,2,0,1,1]},
 {"Name":"USA, Nordosten (Boston) ","Country":"US","Part":"NE","Monate":[3,3,3,2,1,0,0,0,0,1,3,3]},

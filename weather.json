@@ -74,7 +74,7 @@
 {"Name":"Ecuador (Küste) ","Country":"EC","Part":"W","Monate":[0,0,0,0,1,1,2,2,2,2,2,1]},
 {"Name":"Ecuador (Regenwald) ","Country":"EC","Part":"E","Monate":[2,2,2,2,0,0,0,0,0,1,2,2]},
 {"Name":"Egypt","Country":"EG","Part":"","Monate":[5,5,5,5,5,5,5,5,5,5,5,5]},
-{"Name":"El Salvador, Nicaragua ","Country":"SV","Part":"","Monate":[0,0,0,1,2,2,3,3,3,2,1,0]},
+{"Name":"El Salvador","Country":"SV","Part":"","Monate":[0,0,0,1,2,2,3,3,3,2,1,0]},
 {"Name":"Equatorial Guinea","Country":"GQ","Part":"","Monate":[5,5,5,5,5,5,5,5,5,5,5,5]},
 {"Name":"Eritrea","Country":"ER","Part":"","Monate":[5,5,5,5,5,5,5,5,5,5,5,5]},
 {"Name":"Estonia","Country":"EE","Part":"","Monate":[5,5,5,5,5,5,5,5,5,5,5,5]},
